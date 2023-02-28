@@ -14,7 +14,7 @@ public class sum
         System.out.println("Enter Second Number: ");
         num2 = Integer.parseInt(args[0]);
         
-        sc.close();
+       
         sum = num1 + num2;
         System.out.println("Sum of these numbers: "+sum);
     }
